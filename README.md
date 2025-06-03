@@ -24,7 +24,7 @@
 
 ---
 
-## 📱 Capturas de pantalla (opcional)
+## 📱 Estructura del proyecto
 
 [UNIP - TFG Presentación.pdf](https://github.com/user-attachments/files/20565978/UNIP.-.TFG.Presentacion.pdf)
 
