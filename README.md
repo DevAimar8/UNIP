@@ -27,6 +27,7 @@
 ## 📱 Estructura del proyecto
 
 [UNIP - TFG Presentación.pdf](https://github.com/user-attachments/files/20565978/UNIP.-.TFG.Presentacion.pdf)
+https://www.canva.com/design/DAGpAeRVhIE/OZtBuceVWmhLoLaMZkRGsA/edit?utm_content=DAGpAeRVhIE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
 ---
 
