@@ -10,7 +10,7 @@
 - 🎯 Información detallada sobre cada carrera:
   - Nota de corte del último año
   - Centros donde se imparte
-  - descripción de la carrera
+  - Descripción de la carrera
 - 💬 **Sección comunitaria** para que los usuarios compartan experiencias y consejos.
 - ⭐ Valoraciones y comentarios sobre grados y universidades.
 
