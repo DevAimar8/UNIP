@@ -18,9 +18,11 @@
 
 ## 🛠️ Tecnologías utilizadas
 
-- **FlutterFlow** para el desarrollo visual de la app.
-- **Firebase** para autenticación, base de datos y almacenamiento (si aplica).
-- **HuggingFace API** para la integración del modelo UniHoot.
+- **FlutterFlow** para el desarrollo visual de la app.  
+- **Flutter** como framework principal de desarrollo.  
+- **Firebase** para autenticación, base de datos y almacenamiento.  
+- **HuggingFace API** para la integración del modelo UniHoot.  
+- **CSV** para la carga o gestión de datos estructurados.  
 
 ---
 
