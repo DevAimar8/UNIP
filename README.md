@@ -26,7 +26,13 @@
 
 ## 📱 Estructura del proyecto
 
+**PDF Presentación**
 [UNIP - TFG Presentación.pdf](https://github.com/user-attachments/files/20565978/UNIP.-.TFG.Presentacion.pdf)
+
+
+**Documentación y memoria**
+[TFG-UNIP-Aimar.pdf](https://github.com/user-attachments/files/20589333/TFG-UNIP-Aimar.pdf)
+
 
 **Presentación Canva:**
 https://www.canva.com/design/DAGpAeRVhIE/OZtBuceVWmhLoLaMZkRGsA/edit?utm_content=DAGpAeRVhIE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
