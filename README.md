@@ -2,7 +2,7 @@
 
 **UNIP** es una aplicación móvil desarrollada con FlutterFlow cuyo objetivo es ayudar a los jóvenes a descubrir carreras universitarias o grados superiores que se adapten a sus intereses, aptitudes y aspiraciones profesionales.
 
----
+--- 
 
 ## 🚀 Funcionalidades principales
 
